@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tut2_q3.c">
+    <ClCompile Include="tut2_q4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
